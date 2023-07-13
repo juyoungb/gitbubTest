@@ -6,7 +6,6 @@ String url= request.getParameter("url"); //로그인 후 이동할 페이지 주
 if(url == null) url = ROOT_URL;
 else 			url = url.replace('~', '&');
 %>
-
 <script>
 function chkVal(frm) {
 	var uid = frm.uid.value;  var pwd = frm.pwd.value;
