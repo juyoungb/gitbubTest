@@ -8,7 +8,7 @@
 </head>
 <body>
    <video
-  src="/shoeShort/video/shoe.mp4"
+  src=".\video\shoe.mp4"
   width="1280px"
   height="720px"
   controls
