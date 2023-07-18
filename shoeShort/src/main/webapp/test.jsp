@@ -7,6 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>test 11:56</h2>
+   <video
+  src="./videos/shoe.mp4"
+  width="1280px"
+  height="720px"
+  controls
+  autoplay
+  loop
+></video>
 </body>
 </html>
