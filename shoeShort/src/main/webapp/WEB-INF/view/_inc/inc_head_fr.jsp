@@ -4,6 +4,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-</head>
 <body>
+<a href="">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="productList?pcb=AA" class="">1</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="productList?pcb=BB" class="">2</a>
+<hr />
+
 

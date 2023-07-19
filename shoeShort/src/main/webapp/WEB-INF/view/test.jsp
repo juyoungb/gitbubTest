@@ -1,19 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-   <video
-  src=".\video\shoe.mp4"
-  width="1280px"
-  height="720px"
-  controls
-  autoplay
-  loop
-></video>
-</body>
-</html>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ include file="_inc/inc_head_fr.jsp" %>
+<h2>test123123123213123123123123123123123123123123123123123123123123123123</h2>
+<%@ include file="_inc/inc_foot_fr.jsp" %>
